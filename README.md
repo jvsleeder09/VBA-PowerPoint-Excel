@@ -13,7 +13,7 @@ Este guia detalhado irá mostrar como importar arquivos VBA para o PowerPoint e 
 ### 2. Importação do Arquivo
 
 * No editor VBA, vá em `Arquivo` > `Importar Arquivo`.
-* Selecione o arquivo desejado na pasta e aguarde a importação.
+* Selecione o arquivo.bas desejado na pasta e aguarde a importação.
 
 ### 3. Execução da Macro
 
